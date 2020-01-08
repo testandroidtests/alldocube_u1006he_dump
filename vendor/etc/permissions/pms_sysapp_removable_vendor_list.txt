@@ -1,0 +1,5 @@
+com.mediatek.vnet
+com.iflytek.inputmethod
+com.hugeland.cdsplus
+com.pp.assistant
+cn.kuwo.kwmusichd
